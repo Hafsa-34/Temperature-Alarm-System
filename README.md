@@ -1,6 +1,6 @@
-Heater Alarm System (8086 Assembly Language)
+Temperature Alarm System (8086 Assembly Language)
 📋 Description
-The Heater Alarm System is a simple interactive 8086 assembly program designed to monitor temperature input and provide visual/audio alerts based on the temperature level. 
+The Temperature Alarm System is a simple interactive 8086 assembly program designed to monitor temperature input and provide visual/audio alerts based on the temperature level. 
 It supports both Celsius and Fahrenheit inputs and indicates temperature status via text color simulation (representing LEDs) and an audible beep for critical levels.
 The project mimics real-world hardware feedback using BIOS interrupts and EMU8086 macros/functions for educational simulation purposes.
 
